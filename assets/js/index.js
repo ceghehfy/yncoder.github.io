@@ -5,5 +5,5 @@ $(function() {
     }
 
     $("title").html(act.title)
-    $("#act").load(act.path);
+    $("#act").load(act.path + " header");
 })
