@@ -52,6 +52,12 @@ a:hover{
     clear: both;
 }
 
+.container .col-50 {
+    float: left;
+    width: 50%;
+    padding: 0px 15px;
+}
+
 header{
     background: url(../img/header-bg.jpg) no-repeat center;
     background-size: cover;

@@ -6,4 +6,5 @@ $(function() {
 
     $("title").html(act.title)
     $("#act").load(act.path + " header");
+    $("#footer").load("../footer/footer.html");
 })
